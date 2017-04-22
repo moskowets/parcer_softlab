@@ -1,2 +1,2 @@
-# parcer_softlab
+# parser_softlab
 Программа требует установленного и подключенного MySQL C++ Connector, который в свою очередь требует boost.
